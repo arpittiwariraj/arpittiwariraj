@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arpittiwariraj
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...python and web designing
 - 💞️ I’m looking to collaborate on ...github/instagram
 - 📫 How to reach me ...@arpittiwariraj@gmail.comn
 - 😄 Pronouns: ...
