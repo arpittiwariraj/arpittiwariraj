@@ -11,6 +11,7 @@
 ### 🌱 What I’m currently working on:
 - AI-based projects
 - Research on AI Language Models
+- Web Projects
 
 <!---
 arpittiwariraj/arpittiwariraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
