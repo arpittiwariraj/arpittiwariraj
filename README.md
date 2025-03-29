@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Arpit Tiwari!
 
-- 💻 Currently in **Class 11th**
+- 💻 Currently in **Class 12th**
 - 📚 Learning: **AI, Machine Learning, Deep Learning, Cloud Computing**
 - 🔍 Passionate about: **AI language models** and **Research in AI**
 - 🌐 Skills: Python, Web Development (HTML, CSS, JS), AI/ML, Cloud
